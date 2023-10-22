@@ -1,0 +1,82 @@
+E:\Project\Restudent Management System\bin\Debug\Restudent Management System.exe.config
+E:\Project\Restudent Management System\bin\Debug\Restudent Management System.exe
+E:\Project\Restudent Management System\bin\Debug\Restudent Management System.pdb
+E:\Project\Restudent Management System\obj\Debug\Restudent Management System.csproj.AssemblyReference.cache
+E:\Project\Restudent Management System\obj\Debug\Restudent Management System.csproj.SuggestedBindingRedirects.cache
+E:\Project\Restudent Management System\obj\Debug\Restudent_Management_System.Start.resources
+E:\Project\Restudent Management System\obj\Debug\Restudent_Management_System.Properties.Resources.resources
+E:\Project\Restudent Management System\obj\Debug\Restudent Management System.csproj.GenerateResource.cache
+E:\Project\Restudent Management System\obj\Debug\Restudent Management System.csproj.CoreCompileInputs.cache
+E:\Project\Restudent Management System\obj\Debug\Restudent Management System.exe
+E:\Project\Restudent Management System\obj\Debug\Restudent Management System.pdb
+E:\Project\Restudent Management System\obj\Debug\Restudent Management System.csproj.CopyComplete
+E:\Project\Restudent Management System\bin\Debug\Guna.UI2.dll
+E:\Project\Restudent Management System\obj\Debug\Restudent_Management_System.Login.resources
+E:\Project\Restudent Management System\obj\Debug\Restudent_Management_System.Admin.resources
+E:\Project\Restudent Management System\obj\Debug\Restudent_Management_System.Manager.resources
+E:\Project\Restudent Management System\obj\Debug\Restudent_Management_System.Staf.resources
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\bin\Debug\Restudent Management System.exe.config
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\bin\Debug\Restudent Management System.exe
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\bin\Debug\Restudent Management System.pdb
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent Management System.csproj.AssemblyReference.cache
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent Management System.csproj.SuggestedBindingRedirects.cache
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent_Management_System.Admin.resources
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent_Management_System.Login.resources
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent_Management_System.Manager.resources
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent_Management_System.Staf.resources
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent_Management_System.Start.resources
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent_Management_System.Properties.Resources.resources
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent Management System.csproj.GenerateResource.cache
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent Management System.csproj.CoreCompileInputs.cache
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent Management System.csproj.CopyComplete
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent Management System.exe
+K:\University\5th Semester\OOP2\KFA\New folder\Restudent Management System\obj\Debug\Restudent Management System.pdb
+C:\Users\Admin\Desktop\Restudent Management System\bin\Debug\Restudent Management System.exe.config
+C:\Users\Admin\Desktop\Restudent Management System\bin\Debug\Restudent Management System.exe
+C:\Users\Admin\Desktop\Restudent Management System\bin\Debug\Restudent Management System.pdb
+C:\Users\Admin\Desktop\Restudent Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent_Management_System.Admin.resources
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent_Management_System.Login.resources
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent_Management_System.Manager.resources
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent_Management_System.Staf.resources
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent_Management_System.Start.resources
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent_Management_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent Management System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent Management System.csproj.CopyComplete
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent Management System.exe
+C:\Users\Admin\Desktop\Restudent Management System\obj\Debug\Restudent Management System.pdb
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\bin\Debug\Restudent Management System.exe.config
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\bin\Debug\Restudent Management System.exe
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\bin\Debug\Restudent Management System.pdb
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent Management System.csproj.AssemblyReference.cache
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent Management System.csproj.SuggestedBindingRedirects.cache
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent_Management_System.Admin.resources
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent_Management_System.Login.resources
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent_Management_System.Manager.resources
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent_Management_System.Staf.resources
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent_Management_System.Start.resources
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent_Management_System.Properties.Resources.resources
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent Management System.csproj.GenerateResource.cache
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent Management System.csproj.CoreCompileInputs.cache
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent Management System.csproj.CopyComplete
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent Management System.exe
+K:\University\5th Semester\OOP2\KFA\New folder (2)\Restudent Management System\obj\Debug\Restudent Management System.pdb
+E:\Restudent Management System\bin\Debug\Restudent Management System.exe.config
+E:\Restudent Management System\bin\Debug\Restudent Management System.exe
+E:\Restudent Management System\bin\Debug\Restudent Management System.pdb
+E:\Restudent Management System\obj\Debug\Restudent Management System.csproj.AssemblyReference.cache
+E:\Restudent Management System\obj\Debug\Restudent Management System.csproj.SuggestedBindingRedirects.cache
+E:\Restudent Management System\obj\Debug\Restudent_Management_System.Admin.resources
+E:\Restudent Management System\obj\Debug\Restudent_Management_System.Login.resources
+E:\Restudent Management System\obj\Debug\Restudent_Management_System.Manager.resources
+E:\Restudent Management System\obj\Debug\Restudent_Management_System.Staf.resources
+E:\Restudent Management System\obj\Debug\Restudent_Management_System.Start.resources
+E:\Restudent Management System\obj\Debug\Restudent_Management_System.Properties.Resources.resources
+E:\Restudent Management System\obj\Debug\Restudent Management System.csproj.GenerateResource.cache
+E:\Restudent Management System\obj\Debug\Restudent Management System.csproj.CoreCompileInputs.cache
+E:\Restudent Management System\obj\Debug\Restudent Management System.csproj.CopyComplete
+E:\Restudent Management System\obj\Debug\Restudent Management System.exe
+E:\Restudent Management System\obj\Debug\Restudent Management System.pdb
